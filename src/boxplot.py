@@ -28,3 +28,5 @@ print("Saved boxplot to figs/boxplot.png")
 
 pip install -r requirements.txt
 cd path/to/A01
+
+python src/boxplot.py
