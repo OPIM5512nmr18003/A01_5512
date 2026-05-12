@@ -26,14 +26,6 @@ plt.close()
 
 print("Saved boxplot to figs/boxplot.png")
 
-pip install -r requirements.txt
-cd path/to/A01
 
-python src/boxplot.py
 
-git add figs/boxplot.png
-git commit -m "Add boxplot figure"
-git push
-
-cd ..
 
