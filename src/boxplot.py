@@ -30,3 +30,7 @@ pip install -r requirements.txt
 cd path/to/A01
 
 python src/boxplot.py
+
+git add figs/boxplot.png
+git commit -m "Add boxplot figure"
+git push
