@@ -34,3 +34,6 @@ python src/boxplot.py
 git add figs/boxplot.png
 git commit -m "Add boxplot figure"
 git push
+
+cd ..
+
